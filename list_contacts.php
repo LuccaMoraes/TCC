@@ -125,8 +125,8 @@
             margin-bottom: 10px;
             border-radius: 8px;
             display: flex;
-            margin-left: 500px;
-            margin-right: 500px;
+            margin-left: 20%;
+            margin-right: 20%;
             align-items: center;
             transition: background-color 0.3s ease;
         }
@@ -197,8 +197,8 @@
     <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a href="#">Home</a>
-        <a href="http://localhost/TCC%20v7/">Cadastro</a>
-        <a href="http://localhost/TCC%20v7/list_contacts.php">Lista de Alunos</a>
+        <a href="./index.php">Cadastro</a>
+        <a href="./list_contacts.php">Lista de Alunos</a>
         <a href="http://127.0.0.1:5000/">Captura Facial</a>
     </div>
 
